@@ -3,7 +3,7 @@
 <html>
 <body>
     <h2>It's working on Tomcat server</h2>
-    <p>minsik</p>
+    <p>minsik 1234</p>
     <hr>
     <h1>${msg}</h1>
     <h1>Hi, there (updated by dowon)</h1>
